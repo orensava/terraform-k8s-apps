@@ -1,0 +1,11 @@
+# Terraform state
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Local files
+*.log
+*.tmp
+*.swp
+.DS_Store
